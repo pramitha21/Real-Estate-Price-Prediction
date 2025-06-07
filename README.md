@@ -71,13 +71,3 @@ For questions or suggestions, please open an issue in the repository or email me
 Kaggle for providing the dataset.
 
 Streamlit and scikit-learn documentation for their excellent resources.
-
-Let me know if you'd like to add images or any additional sections!
-
-
-
-
-
-
-
->>>>>>> ff3124c73ac9c2393a886ab8b46941bc7aba1991
